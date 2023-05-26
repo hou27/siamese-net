@@ -1,4 +1,4 @@
-### 원본 repository : [siamese_net](https://github.com/seanbenhur/siamese_net)
+### 참고 repository : [siamese_net](https://github.com/seanbenhur/siamese_net), [Facial-Similarity-with-Siamese-Networks-in-Pytorch](https://github.com/harveyslash/Facial-Similarity-with-Siamese-Networks-in-Pytorch)
 
 # Signature verification system using Siamese networks
 
