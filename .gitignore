@@ -16,3 +16,7 @@
 
 # Remove dataset files
 siamese-net/content/*
+
+# model files
+*.h5
+*.pt
